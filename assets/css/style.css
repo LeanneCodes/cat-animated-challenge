@@ -17,3 +17,11 @@ body {
     margin: 0;
     align-items: center;
 }
+
+#container img {
+    display: none;
+}
+
+#container img:first-child {
+    display: block;
+}
